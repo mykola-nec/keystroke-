@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
-import { NouisliderModule } from 'ng2-nouislider/src/nouislider';
+import { NouisliderModule } from 'ng2-nouislider';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { Ng2PageScrollModule } from 'ng2-page-scroll';
 
